@@ -36,26 +36,26 @@
 
 | 週 | 培訓項目 | 教材 | 繳交 |
 |----|---------|------|------|
-| W1 | Git/GitHub 協作 | training/git-basics.md | members/學號/git-exercise.md |
-| W2 | Linux 基礎 + WSL | training/linux-basics.md | members/學號/linux-exercise.md |
-| W3 | Python + Pandas 入門 | training/python-basics.md | members/學號/python-exercise.md |
-| W4 | 論文閱讀方法 | training/paper-reading.md | members/學號/paper-summary.md |
+| W6（3/30） | Git/GitHub 協作 | training/git-basics.md | members/學號/git-exercise.md |
+| W7（4/6） | Linux 基礎 + WSL | training/linux-basics.md | members/學號/linux-exercise.md |
+| W8（4/13） | Python + Pandas 入門 | training/python-basics.md | members/學號/python-exercise.md |
+| W9（4/20） | 論文閱讀方法 | training/paper-reading.md | members/學號/paper-summary.md |
 
 ### 第二階段：計畫導入（5 月）
 
 | 週 | 培訓項目 | 教材 | 繳交 |
 |----|---------|------|------|
-| W5 | 實驗室工具鏈（Docker + GPU） | training/lab-tools.md | members/學號/lab-setup.md |
-| W6 | 依計畫分流：跟做模式啟動 | — | members/學號/weekly-log.md |
-| W7 | 跟做 + 碩士生帶做 | — | members/學號/weekly-log.md |
-| W8 | 跟做 + 碩士生帶做 | — | members/學號/weekly-log.md |
+| W10（4/27） | 實驗室工具鏈（Docker + GPU） | training/lab-tools.md | members/學號/lab-setup.md |
+| W11（5/4） | 依計畫分流：跟做模式啟動 | — | members/學號/weekly-log.md |
+| W12（5/11） | 跟做 + 碩士生帶做 | — | members/學號/weekly-log.md |
+| W13（5/18） | 跟做 + 碩士生帶做 | — | members/學號/weekly-log.md |
 
 ### 第三階段：獨立運作（6-7 月）
 
 | 週 | 目標 | 繳交 |
 |----|------|------|
-| W9-W12 | 碩士生口試後，開始獨立操作 | members/學號/weekly-log.md |
-| W13+ | 暑假：獨立跑實驗、處理行政 | progress/月份-進度報告.md (PR) |
+| W14–W17（5/25–6/21） | 碩士生口試後，開始獨立操作 | members/學號/weekly-log.md |
+| W18+（6/22–） | 暑假：獨立跑實驗、處理行政 | progress/月份-進度報告.md (PR) |
 
 ## 進度報告
 
