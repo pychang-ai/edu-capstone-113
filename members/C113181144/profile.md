@@ -47,6 +47,7 @@ PR 標題格式：學號_姓名_git-exercise
 
 貼上你的 PR 網址：
 （貼上）
+https://github.com/pychang-ai/edu-capstone-113/pull/20/changes
 
 ## 練習 4：觀察 commit 紀錄
 
@@ -55,3 +56,17 @@ git log --oneline -5
 git shortlog -sn
 
 （貼上結果）
+git log --oneline -5:
+
+PS C:\Users\User\OneDrive\Desktop\githubpractice\edu-capstone-113> git log --oneline -5
+dfcfa7f (HEAD -> main, origin/main, origin/HEAD) firsttest
+4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
+a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
+508e992 Update README.md
+2b92550 remove: 移除評量方式章節，PI端不需評分機制
+
+git shortlog -sn:
+PS C:\Users\User\OneDrive\Desktop\githubpractice\edu-capstone-113> git shortlog -sn
+     5  pychang
+     1  BBPoPoBPoPo
+     1  mycowbei69
