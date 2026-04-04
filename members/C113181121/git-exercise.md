@@ -17,9 +17,9 @@
 3. 建立 members/你的學號/ 資料夾
 
 （描述過程，貼上你使用的指令）
-1.直接在老師的github專案頁面fork到自己帳號
-2.專案介面點選code，複製clone的URL到vscode
-3.再members資料夾內新增C113181121資料夾
+1. 直接在老師的github專案頁面fork到自己帳號
+2. 專案介面點選code，複製clone的URL到vscode
+3. 再members資料夾內新增C113181121資料夾
 
 ## 練習 2：建立 profile.md 並 Push
 
@@ -31,6 +31,10 @@
 Push 後貼上 git log --oneline -3 的結果：
 （貼上結果）
 
+18b739e (HEAD -> main, origin/main, origin/HEAD) add git-exercise.md and profile.md
+4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
+a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
+
 ## 練習 3：發 PR
 
 發一個 PR 將你的 profile.md 繳交回主 Repo。
@@ -38,6 +42,8 @@ PR 標題格式：學號_姓名_git-exercise
 
 貼上你的 PR 網址：
 （貼上）
+
+https://github.com/pychang-ai/edu-capstone-113/pull/21
 
 ## 練習 4：觀察 commit 紀錄
 
