@@ -31,11 +31,9 @@
 Push 後貼上 git log --oneline -3 的結果：
 （貼上結果）
 
-18b739e (HEAD -> main, origin/main, origin/HEAD) add git-exercise.md and profile.md
-
-4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
-
-a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
+     18b739e (HEAD -> main, origin/main, origin/HEAD) add git-exercise.md and profile.md
+     4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
+     a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
 
 ## 練習 3：發 PR
 
@@ -57,15 +55,11 @@ git shortlog -sn
 
 git log --oneline -5：
 
-c726971 (HEAD -> main, origin/main, origin/HEAD) first pr and change git-exercise.md
-
-18b739e add git-exercise.md and profile.md
-
-4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
-
-a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
-
-508e992 Update README.md
+     c726971 (HEAD -> main, origin/main, origin/HEAD) first pr and change git-exercise.md
+     18b739e add git-exercise.md and profile.md
+     4bb4729 update: 培訓週次對齊學期週次（W6–W18+）
+     a34efa8 add: 113屆專題成員名單（5人，組長王智弘）
+     508e992 Update README.md
 
 git shortlog -sn：
 
